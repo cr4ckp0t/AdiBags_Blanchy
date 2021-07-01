@@ -1,7 +1,7 @@
-## Interface: 90005
+## Interface: 90100
 ## Title: AdiBags - Blanchy Items
-## Version: 1.0.1
-## Author: Crackpotx
+## Version: 1.0.3
+## Author: Crackpot
 ## Notes: Adds Sinrunner Blanchy item filter.
 ## X-Category: Bags & Inventory
 ## Dependancies: AdiBags
