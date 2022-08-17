@@ -1,4 +1,4 @@
-## Interface: 90205
+## Interface: 90207
 ## Title: AdiBags - Blanchy Items
 ## Version: 1.0.6
 ## Author: Crackpot
