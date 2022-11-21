@@ -54,7 +54,8 @@ function setFilter:Filter(slotData)
 		return L["Sinrunner Blanchy"]
 	end
 
-	tooltip = tooltip or tooltipInit()
+	--tooltip = tooltip or tooltipInit()
+	tooltip = GameTooltip
 	tooltip:SetOwner(UIParent,"ANCHOR_NONE")
 	tooltip:ClearLines()
 
