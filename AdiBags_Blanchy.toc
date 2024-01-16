@@ -1,7 +1,7 @@
-## Interface: 100200
+## Interface: 100205
 ## Title: AdiBags - Blanchy Items
 ## IconTexture: Interface\AddOns\AdiBags_Blanchy\Media\crackpot
-## Version: 1.1.9
+## Version: 1.1.10
 ## Author: Crackpot
 ## Notes: Adds Sinrunner Blanchy item filter.
 ## X-Category: Bags & Inventory
@@ -9,5 +9,6 @@
 
 Localization.lua
 AdiBags_Blanchy.lua
+
 
 
